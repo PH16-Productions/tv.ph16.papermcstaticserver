@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://json.schemastore.org/bukkit-plugin.json
+name: PaperMC-Static-Server
+version: ${project.version}
+main: tv.ph16.papermcstaticserver.Plugin
+api-version: 1.16
+load: STARTUP
+authors: [ Shmuelie ]
+description: Adds static content server to PaperMC
+author: Shmuelie
+database: false
+depend:
+  - PaperMC-HTTP-Server
+libraries:
+  - org.jetbrains:annotations:20.1.0
+website: https://github.com/PH16-Productions/tv.ph16.papermcstaticserver
