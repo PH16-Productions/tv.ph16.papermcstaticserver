@@ -1,2 +1,2 @@
-# tv.ph16.bukkitstaticserver
-Add a static content server to Bukkit
+# tv.ph16.papermcstaticserver
+Add a static content server to PaperMC
